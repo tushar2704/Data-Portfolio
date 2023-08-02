@@ -20,7 +20,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 - [Project 3: Social Media Sentiment Analysis](#project-3-social-media-sentiment-analysis)
 - [Project 4: Stock Market Predictions](#project-4-stock-market-predictions)
 - [Project 5: Pizza Sales Analysis](https://github.com/tushar2704/Pizza-Sales-Analysis)
-- [Project 6: Churn Analysis](#project-5-churn-analysis)
+- [Project 6: Employee Distribution](https://github.com/tushar2704/Employee-Distribution)
 - [Project 7: Employee Distribution](https://github.com/tushar2704/Employee-Distribution)
 
 ## Project 1: Sales Analysis
