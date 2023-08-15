@@ -1,4 +1,4 @@
-# Data-Analysis-Portfolio
+# Data Analytics Portfolio 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -83,7 +83,7 @@ Thank you for visiting my Data Analysis Portfolio! I hope you find my projects i
 
 
 ## Author
-- <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
+- [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
 - <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
 - <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
 - <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
