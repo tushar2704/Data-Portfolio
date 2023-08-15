@@ -28,6 +28,9 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 - [Project 10: Product Recommendation](https://github.com/tushar2704/Product-Recommendation)
 - [Project 11: Hiring Process Analytics](https://github.com/tushar2704/Hiring-Process-Analytics)
 
+---
+- [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
+---
 ## [Project 1: Sales for Retail and Food Services](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
 
 In this project, I analyzed and visualized the sales data for Retail and Food Services in the U.S.A. The data is sourced from the U.S. government website and has been processed using SQL to create a database for easy management and analysis. The main focus of this project is to explore the sales data based on NAICS (North American Industry Classification System) code and category.
