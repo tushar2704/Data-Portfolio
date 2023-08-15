@@ -15,13 +15,17 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 
 ## Table of Contents
 
-- [Project 1: Sales Analysis](#project-1-sales-analysis)
+- [Project 1: Sales for Retail and Food Services](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
 - [Project 2: International Debt Analysis](https://github.com/tushar2704/International-Debt-Analysis)
 - [Project 3: Social Media Sentiment Analysis](#project-3-social-media-sentiment-analysis)
-- [Project 4: Stock Market Predictions](#project-4-stock-market-predictions)
-- [Project 5: Pizza Sales Analysis](https://github.com/tushar2704/Pizza-Sales-Analysis)
-- [Project 6: Employee Distribution](https://github.com/tushar2704/Employee-Distribution)
-- [Project 7: Instagram Users Analytics](https://github.com/tushar2704/Instagram-User-Analytics)
+- [Project 4: Stock Market Trend Analysis](https://github.com/tushar2704/Stock-Market-Trend-Analysis)
+- [Project 5: Instagram Users Analytics](https://github.com/tushar2704/Instagram-User-Analytics)
+- [Project 6: Pizza Sales Analysis](https://github.com/tushar2704/Pizza-Sales-Analysis)
+- [Project 7: Employee Distribution](https://github.com/tushar2704/Employee-Distribution)
+- [Project 8: Instagram Users Analytics](https://github.com/tushar2704/Instagram-User-Analytics)
+- [Project 9: Instagram Users Analytics](https://github.com/tushar2704/Instagram-User-Analytics)
+- [Project 10: Instagram Users Analytics](https://github.com/tushar2704/Instagram-User-Analytics)
+- [Project 11: Instagram Users Analytics](https://github.com/tushar2704/Instagram-User-Analytics)
 
 ## Project 1: Sales Analysis
 
