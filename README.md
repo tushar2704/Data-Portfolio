@@ -34,7 +34,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 ## Table of Contents
 
 - [Project 1: Sales for Retail and Food Services](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
-- [Project 2: International Debt Analysis](https://github.com/tushar2704/International-Debt-Analysis)
+- [Project 2: Superstore Sales Dashboard with Streamlit](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit)
 - [Project 3: Rossman Sales Forecasting](https://github.com/tushar2704/Rossman-Sales-Forecasting)
 - [Project 4: Stock Market Trend Analysis](https://github.com/tushar2704/Stock-Market-Trend-Analysis)
 - [Project 5: Instagram Users Analytics](https://github.com/tushar2704/Instagram-User-Analytics)
@@ -44,7 +44,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 - [Project 9: Store Demand Forecasting](https://github.com/tushar2704/Store-Demand-Forecasting)
 - [Project 10: Product Recommendation](https://github.com/tushar2704/Product-Recommendation)
 - [Project 11: Hiring Process Analytics](https://github.com/tushar2704/Hiring-Process-Analytics)
-
+- [Project 12: International Debt Analysis](https://github.com/tushar2704/International-Debt-Analysis)
 ---
 - [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
 ---
@@ -77,7 +77,8 @@ This project revolves around the exploration and analysis of user engagement pat
 ## [Project 6: Pizza Sales Analysis](https://github.com/tushar2704/Pizza-Sales-Analysis)
 
 Pizza Sales Analysis has a comprehensive year's worth of sales data from a fictitious pizza place. The dataset includes detailed information about each order, such as the date and time of purchase, the types of pizzas served, their sizes, quantities, prices.
-![](https://github.com/tushar2704/Data-Analytics-Portfolio/blob/main/src/images/6.png)
+##### Preview
+![pizza4](https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/64e1be51-11d3-4579-b2ae-9f12d7624fa1)
 
 ## [Project 7: Employee Distribution](https://github.com/tushar2704/Employee-Distribution)
 
