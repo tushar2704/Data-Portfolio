@@ -118,7 +118,7 @@ If you have any questions, feedback, or collaboration opportunities, please feel
 
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
 
- 
+  
 
 ## Author
 - [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
